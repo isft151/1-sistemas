@@ -2,7 +2,7 @@
 # Primer año de Sistemas
 
 Estructura de directorios:
-- lenguaje (En minúscula, spinal-case: c-plus-plus, c, c-sharp, java)
+- lenguaje (En minúscula, spinal-case, sin símbolos raros: c-plus-plus, c, c-sharp, java)
 	- nombre-del-proyecto (En minúscula, spinal-case)
 		- Archivos de proyecto (con README.md explicando en detalle el mismo)
 		
