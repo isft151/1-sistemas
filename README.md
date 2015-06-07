@@ -1,4 +1,4 @@
-![Logo Sistemas](http://imgh.us/sistemas.svg)
+![Logo Sistemas](http://imgh.us/logo-sistemas.svg)
 # Primer año de Sistemas
 
 Estructura de directorios:
